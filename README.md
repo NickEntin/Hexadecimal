@@ -10,3 +10,12 @@ The following is a list of sound effects used in Hexadecimal and the source from
 + Classic Keyboard 3 (http://www.freesfx.co.uk)
 + Classic Keyboard 4 (http://www.freesfx.co.uk)
 + Typewriter (http://www.soundjay.com)
+
+### Version History ###
+| Build |  Version  | Release |     Date     |
+|:-----:|:---------:|:-------:|:------------:|
+|   5   | 1.2.0-rc2 |         | Mar 8, 2015  |
+|   4   | 1.2.0-rc1 |         | Mar 1, 2015  |
+|   3   |   1.1.0   |    X    | Feb 4, 2015  |
+|   2   |   1.0.0   |    X    | Jan 19, 2015 |
+|   1   | 1.0.0-rc1 |         |              |
