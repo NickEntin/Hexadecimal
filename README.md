@@ -14,6 +14,8 @@ The following is a list of sound effects used in Hexadecimal and the source from
 ### Version History ###
 | Build |  Version  | Release |     Date     |
 |:-----:|:---------:|:-------:|:------------:|
+|   7   |   1.2.1   |    x    | Apr 16, 2015 |
+|   6   |   1.2.0   |    x    | Mar 24, 2015 |
 |   5   | 1.2.0-rc2 |         | Mar 8, 2015  |
 |   4   | 1.2.0-rc1 |         | Mar 1, 2015  |
 |   3   |   1.1.0   |    X    | Feb 4, 2015  |
